@@ -1,0 +1,126 @@
+{
+     "S": [
+          {
+               "COM COD": 1001.0,
+               "COURSE NO.": "BIO F110",
+               "COURSE TITLE": "BIOLOGY LABORATORY",
+               "CREDIT": "-",
+               "Unnamed: 4": 2,
+               "Unnamed: 5": 1,
+               "SEC": "P1",
+               "INSTRUCTOR-IN-CHARGE / Instructor": "Sayantani Chatterjee(RS)",
+               "ROOM": 3219.0,
+               "DAYS & HOURS": "F  6 7",
+               "Sections": [
+                    {
+                         "INSTRUCTOR-IN-CHARGE / Instructor": "Ramakrishnan S(RS)"
+                    },
+                    {
+                         "SEC": "P2",
+                         "INSTRUCTOR-IN-CHARGE / Instructor": "Jitendra Panwar",
+                         "ROOM": 3219.0,
+                         "DAYS & HOURS": "F  8 9"
+                    },
+                    {
+                         "INSTRUCTOR-IN-CHARGE / Instructor": "Valluri Harsha Prabha(RS)"
+                    },
+                    {
+                         "SEC": "P3",
+                         "INSTRUCTOR-IN-CHARGE / Instructor": "Lourdes Jennifer S(RS)",
+                         "ROOM": 3219.0,
+                         "DAYS & HOURS": "M  1 2"
+                    },
+                    {
+                         "INSTRUCTOR-IN-CHARGE / Instructor": "B Vani"
+                    },
+                    {
+                         "SEC": "P4",
+                         "INSTRUCTOR-IN-CHARGE / Instructor": "Mukul Joshi",
+                         "ROOM": 3219.0,
+                         "DAYS & HOURS": "M  6 7"
+                    },
+                    {
+                         "INSTRUCTOR-IN-CHARGE / Instructor": "Shiva Chaudhary(RS)"
+                    },
+                    {
+                         "SEC": "P5",
+                         "INSTRUCTOR-IN-CHARGE / Instructor": "Sandhya Amol Marathe",
+                         "ROOM": 3219.0,
+                         "DAYS & HOURS": "M  8 9"
+                    },
+                    {
+                         "INSTRUCTOR-IN-CHARGE / Instructor": "Ritu Jangir(RS)"
+                    },
+                    {
+                         "SEC": "P6",
+                         "INSTRUCTOR-IN-CHARGE / Instructor": "Meghana Tare",
+                         "ROOM": 3219.0,
+                         "DAYS & HOURS": "T  1 2"
+                    },
+                    {
+                         "INSTRUCTOR-IN-CHARGE / Instructor": "Hariharan J(RS)"
+                    },
+                    {
+                         "SEC": "P7",
+                         "INSTRUCTOR-IN-CHARGE / Instructor": "Anasuya Banerjee(RS)",
+                         "ROOM": 3219.0,
+                         "DAYS & HOURS": "T  6 7"
+                    },
+                    {
+                         "INSTRUCTOR-IN-CHARGE / Instructor": "Shraddha Gupta(RS)"
+                    },
+                    {
+                         "SEC": "P8",
+                         "INSTRUCTOR-IN-CHARGE / Instructor": "RAJDEEP CHOWDHURY",
+                         "ROOM": 3219.0,
+                         "DAYS & HOURS": "T  8 9"
+                    },
+                    {
+                         "INSTRUCTOR-IN-CHARGE / Instructor": "Chakraborty Srinjoy Srabani(RS)"
+                    },
+                    {
+                         "SEC": "P9",
+                         "INSTRUCTOR-IN-CHARGE / Instructor": "Gujarati Sukriti Nisha(RS)",
+                         "ROOM": 3219.0,
+                         "DAYS & HOURS": "Th  6 7"
+                    },
+                    {
+                         "INSTRUCTOR-IN-CHARGE / Instructor": "Shristy Shreya(RS)"
+                    },
+                    {
+                         "SEC": "P10",
+                         "INSTRUCTOR-IN-CHARGE / Instructor": "Farhanur Rahman(RS)",
+                         "ROOM": 3219.0,
+                         "DAYS & HOURS": "Th  8 9"
+                    },
+                    {
+                         "INSTRUCTOR-IN-CHARGE / Instructor": "Shelly Chauhan(RS)"
+                    },
+                    {
+                         "SEC": "P11",
+                         "INSTRUCTOR-IN-CHARGE / Instructor": "Balakumaran Chandrasekar",
+                         "ROOM": 3219.0,
+                         "DAYS & HOURS": "W  1 2"
+                    },
+                    {
+                         "INSTRUCTOR-IN-CHARGE / Instructor": "Saurabh Singh(RS)"
+                    },
+                    {
+                         "SEC": "P12",
+                         "INSTRUCTOR-IN-CHARGE / Instructor": "Prabhat Nath Jha",
+                         "ROOM": 3219.0,
+                         "DAYS & HOURS": "W  6 7"
+                    },
+                    {
+                         "INSTRUCTOR-IN-CHARGE / Instructor": "Priya Gupta(RS)"
+                    },
+                    {
+                         "SEC": "P13",
+                         "INSTRUCTOR-IN-CHARGE / Instructor": "Sushama Biswas(RS)",
+                         "ROOM": 3219.0,
+                         "DAYS & HOURS": "W  8 9"
+                    }
+               ]
+          }
+     ]
+}
